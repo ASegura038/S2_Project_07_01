@@ -5,8 +5,8 @@
    Tutorial 5
    Case Problem 1
    
-   Author:   
-   Date:     
+   Author: Annette Segura 
+   Date:     11-28-18
    
    Filename: gp_layout.css
 
@@ -23,9 +23,15 @@
 
 /* Flex Layout Styles */
 
+body {
+    display: -webkit-flex;
+    display: flex;
+}
 
+section#sheet {
+    flex: 3 1 301px;
 
-
+}
 
 /* ============================================
 	Mobile Devices: 0 - 480 pixels
@@ -39,4 +45,3 @@
 	Tablet and Desktop Devices: Greater than 480 pixels
    ===================================================
 */
-
