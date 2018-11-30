@@ -23,7 +23,7 @@
 
 /* Flex Layout Styles */
 
-/* affected the body of the webpage having the display to webkit flex making it available to all browsers with each row wrap. the section with the ID sheet sets the grow shrink rate  */
+/* affected the body of the webpage having the display to webkit flex making it available to all browsers with each row wrap. the section with the ID sheet sets the grow shrink rate for the comic book sheet */
 
 body {
     display: -webkit-flex;
